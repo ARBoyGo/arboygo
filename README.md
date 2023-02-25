@@ -1,4 +1,4 @@
-## Hi there, I'm ARBoyGo! :wave:
+# Hi there, I'm ARBoyGo! :wave:
 
 I'm a Linux & FOSS Enthusiast from India living in Saudi Arabia. I love working with open source software and exploring new technology.
 
